@@ -1,0 +1,10 @@
+body{
+   background-image: url(./travel.jpg);  
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+#tittle{
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+}
